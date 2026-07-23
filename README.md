@@ -9,4 +9,4 @@ What I built
 Workflow note
 - I created the first recipe manually, then extracted the common structure into `recipes/template.html`. From that template I duplicated and filled new files to ensure uniform markup and UX across the site.
 
-See `recipes/readme.md` for more details about the `recipes/` folder.
+See `https://github.com/MobitoTg/odin-recipes/recipes/readme.md` for more details about the `recipes/` folder.
