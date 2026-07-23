@@ -5,6 +5,7 @@ This directory contains individual recipe pages and a blank recipe template used
 Files:
 - `newyorkstrip.html` — Finished recipe page for New York Strip steak (includes image, attribution, ingredients, and steps).
 - `shortrib.html` — Recipe page scaffold for short ribs (editable recipe file).
+- `pasta-salad.html` — Pasta Salad recipe page (one of your favorites).
 - `template.html` — Minimal HTML template to copy when adding a new recipe.
 
 How to add a new recipe:
